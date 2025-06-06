@@ -1,7 +1,7 @@
 # shell-mommy-promax
 the super awesome, highly customizable, revolutionary terminal assistant that doesn't exist (yet).
 
-![Copilot_20250606_212810](https://github.com/user-attachments/assets/23adf0af-e576-4a73-b580-3ab7f06ce96c)
+![image](https://github.com/user-attachments/assets/7dfa021c-3c57-4cf0-92e4-e85af600b6ba)
 
 
 ## To-Do:
