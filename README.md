@@ -28,6 +28,6 @@ mommyFunction() { /path/to/mommy }
 ```
 
 ## To-Do:
-[x] this command can run after every command exits from shell
-[ ] detect executed commands and respond to them somehow
-[ ] fish support
+- [x] this command can run after every command exits from shell
+- [ ] detect executed commands and respond to them somehow
+- [ ] fish support
