@@ -1,5 +1,5 @@
 # Work started
-> the first command of the day or the fisrt one after a new boot 
+> the first command of the day or the first one after a new boot 
 
 Ohhh %v's cute little pumpkin started working today, hmm?
 
@@ -17,14 +17,14 @@ Go you!
 
 Oh my! :0 It's okay hon', try again!
 
-Don't worry! %v believs that you can do it next time! ;D
+Don't worry! %v believes that you can do it next time! ;D
 
-Oh sweetie! It's fine, just be carefull next time! xoxo
+Oh sweetie! It's fine, just be careful next time! xoxo
 
 Don't let these small mistakes stop you darling! <3
 
 Don't sweat it! Try again after a lil' rest!
-# Succesful task
+# Successful task
 > like a successful compilation
 
 Yay! :D Good job pumpkin!
