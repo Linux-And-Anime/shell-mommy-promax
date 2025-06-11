@@ -30,4 +30,6 @@ mommyFunction() { /path/to/mommy }
 ## To-Do:
 - [x] this command can run after every command exits from shell
 - [ ] detect executed commands and respond to them somehow
+  - [ ] also detect if they failed or succeeded
+  - [ ] differentiate between actual tasks and unimportant commands (e.g. 'go version' and 'go build cmd/mommy.go') 
 - [ ] fish support
